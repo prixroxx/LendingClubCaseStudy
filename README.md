@@ -17,6 +17,9 @@ You work for a consumer finance company which specialises in lending various typ
 
 - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
+#### N.B. - You will find the analysis on the dataset in file Prashant.ipynb. Insights can also be seen in a summarised form in Lending_Club_Case_Study_PPT.pdf file.
+
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
