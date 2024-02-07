@@ -56,7 +56,7 @@ We also observed a few good traits for people who fully paid their loans
 
 
 ## Contact
-Created by [@prixroxx] - feel free to contact me!
+Created by Prashant [@prixroxx](https://www.github.com/prixroxx) - feel free to contact me!
 
 
 <!-- Optional -->
